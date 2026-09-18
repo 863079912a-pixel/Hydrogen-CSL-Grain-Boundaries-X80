@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data or codes, please cite the associated manuscript."
-title: "Data and code for hydrogen-induced degradation and fracture localization in alpha-Fe CSL grain boundaries"
+title: "Quantitative Characterization of Hydrogen-Induced Mechanical Degradation and Fracture Localization in α-Fe CSL Grain Boundaries Relevant to X80 Pipeline Steel"
 type: software
 authors:
   - family-names: "Li"
