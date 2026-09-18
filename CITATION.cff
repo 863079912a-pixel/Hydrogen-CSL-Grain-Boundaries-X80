@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these data or codes, please cite the associated manuscript."
+title: "Data and code for hydrogen-induced degradation and fracture localization in alpha-Fe CSL grain boundaries"
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "An"
+  - family-names: "Weng"
+    given-names: "Guangyuan"
+  - family-names: "Han"
+    given-names: "Zhaoyang"
+  - family-names: "Zhao"
+    given-names: "Zhuosong"
+  - family-names: "Tang"
+    given-names: "Wenhong"
+  - family-names: "Zhu"
+    given-names: "Lei"
+  - family-names: "Wang"
+    given-names: "Tianhao"
+date-released: 2026-09-18

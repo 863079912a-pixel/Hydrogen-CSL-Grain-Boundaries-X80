@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# MATLAB
+*.asv
+*.m~
+
+# Large MD outputs
+*.dump
+*.lammpstrj
+*.restart
+*.bin
+*.dcd
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated analysis outputs
+04_fracture_criterion/outputs/*
+!04_fracture_criterion/outputs/README.md
+!04_fracture_criterion/outputs/.gitkeep
